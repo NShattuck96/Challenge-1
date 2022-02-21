@@ -136,7 +136,7 @@ p {
 /* These control the right side box and the various things within the box */ 
 .benefits {
     margin-right: 20px;
-    padding: 20px;    
+    padding: 35px;    
     clear: both;
     float: right;
     width: 20%;
